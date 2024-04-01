@@ -11,7 +11,7 @@ The study was accomplished partly with code taken from Telling Stories with Data
 
 The repo is structured as:
 
--   `data/raw_data` contains the raw data as obtained from X.
+-   `data/raw_data` contains the raw data as obtained from the Alberta Government.
 -   `data/analysis_data` contains the cleaned dataset that was constructed.
 -   `paper.qmd` contains the fitted models. 
 -   `other` contains relevant literature, details about LLM chat interactions, and sketches.
