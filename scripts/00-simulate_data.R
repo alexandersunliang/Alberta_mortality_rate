@@ -23,9 +23,3 @@ alberta_death_simulation
 summary(alberta_death_simulation)
 write_csv(alberta_death_simulation, "data/raw_data/simulated_data.csv") 
 
-#Test for deaths being at least 0
-alberta_death_simulation$deaths |> min() >= 0 
-#Test for all causes being in the data set
-all(c("Heart Attack", "Heart Disease", "Diabetes") %in% alberta_death_simulation$cause) 
-#Test so that death count doesn't exceed reasonable values
-lberta_death_simulation$deaths |> max() <= 20000

@@ -21,4 +21,4 @@ The repo is structured as:
 
 ## Statement on LLM usage
 
-Aspects of the code were written with the help of the auto-complete tool, Chat-GPT4. Several errors were fixed with the help of ChatHorse and the entire chat history is available in other/llm/usage.txt.
+Aspects of the code were written with the help of the auto-complete tool, Chat-GPT4. Several errors were fixed with the help of ChatGPT-4 and the entire chat history is available in other/llm/usage.txt.
