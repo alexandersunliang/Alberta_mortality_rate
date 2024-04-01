@@ -2,7 +2,7 @@
 title: "Temporal Trends in Heart Disease and Diabetes Mortality in Alberta: A comparison between Poisson and Negative Binomial techniques"
 author: 
   - Alexander Sun
-thanks: "https://github.com/alexandersunliang/Temporal-Trends-in-Heart-Disease-and-Diabetes-Mortality-in-Alberta.git"
+thanks: "https://github.com/alexandersunliang/Alberta_mortality_rate"
 date: "`r Sys.time()`"
 date-format: "D MMMM YYYY"
 abstract: "In this study, we analyzed mortality data from Alberta, Canada, focusing on the effects of heart disease and diabetes from 2016 to 2021, amidst increasing fast food consumption. Our findings, using Poisson and negative binomial regression models, indicate that while heart disease is positively associated with mortality rates, diabetes, and other cardiovascular conditions are linked to lower mortality rates relative to the baseline, suggesting effective management of these conditions over time. This research illustrates the complex relationship between diseases and health outcomes, highlighting balance between medical advancement and deteriorating dietary habits. By shedding light on these temporal trends, our study contributes to a broader understanding of how diet influences the prevalence and mortality rates of heart disease and diabetes, reinforcing the importance of dietary education and regulation in public health initiatives."
