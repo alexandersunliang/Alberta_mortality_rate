@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repo features a study on the effects of heart disease and diabetes on mortality rates in Alberta using a Poisson model and a negative binomial model from 2016-2021.
+This repo features a study on the effects of heart disease and diabetes on mortality rates in Alberta using a Poisson model and a negative binomial model from 2016-2021. The data was collected from the Alberta Government and can be accessed from this link: https://open.alberta.ca/opendata/leading-causes-of-death
 
 The study was accomplished partly with code taken from Telling Stories with Data (Alexander, 2023). The analysis was conducted through Rstudio using "R version 4.3.2 (2023-10-31)
 
